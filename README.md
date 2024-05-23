@@ -1,0 +1,1 @@
+start the app then click the "start logging" button. then start copying things and they'll be copied to the text area, you can then stop the app and copy it to wherever you want
